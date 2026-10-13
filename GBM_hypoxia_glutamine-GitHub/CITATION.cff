@@ -1,0 +1,9 @@
+﻿cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata in this file.
+title: Hypoxia-glutamine analysis code in glioblastoma
+authors:
+  - family-names: Zhang
+    given-names: Chao
+repository-code: https://github.com/cz228627-tech/gbm-hypoxia-glutamine
+license: MIT
