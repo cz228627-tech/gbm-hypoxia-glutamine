@@ -4,7 +4,7 @@ This repository contains scripts, not input datasets. Download inputs from the o
 
 ## Python workflows
 
-Run scripts from the repository root. Scripts use repository-relative `data/` and `results/` defaults. The expected input tree includes:
+Run Python scripts from GBM_hypoxia_glutamine-GitHub/, the directory containing python/ and R/. Scripts use repository-relative `data/` and `results/` defaults. The expected input tree includes:
 
 ```text
 data/
